@@ -39,6 +39,13 @@ Membuat about html
 
 ![Screenshot (40)](https://user-images.githubusercontent.com/46512504/81065381-8c51c900-8f05-11ea-8746-53ed037f37df.png)
 
+Membuat contact html
+
+![Screenshot (41)](https://user-images.githubusercontent.com/46512504/81065571-e8b4e880-8f05-11ea-9cb8-89df7c033d14.png)
+
+Membuat keahlian html
+
+![Screenshot (42)](https://user-images.githubusercontent.com/46512504/81065588-f23e5080-8f05-11ea-9426-b1a9c5fe816d.png)
 
 
 
