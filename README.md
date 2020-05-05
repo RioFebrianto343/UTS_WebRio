@@ -49,6 +49,17 @@ Membuat keahlian html
 
 # Membuat CSS
 
+![Screenshot (43)](https://user-images.githubusercontent.com/46512504/81065597-f8343180-8f05-11ea-838c-7bd9a7d2f2ef.png)
 
+![Screenshot (45)](https://user-images.githubusercontent.com/46512504/81066191-eef79480-8f06-11ea-8565-a2395e22c199.png)
 
+![Screenshot (46)](https://user-images.githubusercontent.com/46512504/81066202-f1f28500-8f06-11ea-93a1-17f774c51246.png)
+
+![Screenshot (47)](https://user-images.githubusercontent.com/46512504/81066210-f74fcf80-8f06-11ea-93e1-bf379ce8d3a5.png)
+
+![Screenshot (48)](https://user-images.githubusercontent.com/46512504/81066214-f9b22980-8f06-11ea-9d0f-0bd96d12b99b.png)
+
+![Screenshot (49)](https://user-images.githubusercontent.com/46512504/81066235-00d93780-8f07-11ea-909c-8f852d7f4722.png)
+
+# Hasil dari Output HTML dan CSS
 
