@@ -63,3 +63,11 @@ Membuat keahlian html
 
 # Hasil dari Output HTML dan CSS
 
+![Screenshot (54)](https://user-images.githubusercontent.com/46512504/81066685-ac828780-8f07-11ea-9297-76c15b01adbb.png)
+
+![Screenshot (51)](https://user-images.githubusercontent.com/46512504/81066697-b1dfd200-8f07-11ea-809d-0ca6eeae25ec.png)
+
+![Screenshot (52)](https://user-images.githubusercontent.com/46512504/81066710-b60bef80-8f07-11ea-94da-a048b66db165.png)
+
+![Screenshot (53)](https://user-images.githubusercontent.com/46512504/81066718-b906e000-8f07-11ea-81e8-fa1743b8a566.png)
+
