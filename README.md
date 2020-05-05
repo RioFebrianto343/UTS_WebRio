@@ -23,4 +23,8 @@ Untuk NIM dengan akhiran Genap adalah desain dashboard admin web.
 
 Hasil pekerjaan submit pada repository github masing-masing.
 
-Jawaban :
+#Jawaban :
+
+#1. Membuat Mockup atau desain web portfolio
+
+![Screenshot (35)](https://user-images.githubusercontent.com/46512504/81064832-9626fc80-8f04-11ea-9423-9f2c49de761f.png)
