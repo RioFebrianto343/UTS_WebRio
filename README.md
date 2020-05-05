@@ -27,10 +27,18 @@ Hasil pekerjaan submit pada repository github masing-masing.
 
 # 1. Membuat Mockup atau desain web portfolio
 
-
+![Screenshot (35)](https://user-images.githubusercontent.com/46512504/81065366-86f47e80-8f05-11ea-82f9-ea48a9889298.png)
 
 # 2. Membuat HTML dan CSS berdasarkan mockup desain tersebut
 
 Membuat index html
 
 ![Screenshot (39)](https://user-images.githubusercontent.com/46512504/81065143-2bc28c00-8f05-11ea-944b-d59873a2f0ee.png)
+
+Membuat about html
+
+![Screenshot (40)](https://user-images.githubusercontent.com/46512504/81065381-8c51c900-8f05-11ea-8746-53ed037f37df.png)
+
+
+
+
